@@ -677,6 +677,10 @@
 
 /* Background Color */
 
+.rand-bg {
+	background: #d9d9d9;
+}
+
 .gray-bg {
 	background: #f8f8ff;
 }

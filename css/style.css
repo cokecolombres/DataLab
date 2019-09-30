@@ -74,7 +74,7 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-	color: #f89f22;
+	color: #FF8E48;
 	text-decoration: none;
 }
 a,
@@ -214,9 +214,9 @@ label {
 	border-radius: 0;
 	background: #ee4212;
 }
-.btn:hover{background:#f89f22;color:#fff;}
+.btn:hover{background:#FF8E48;color:#fff;}
 .btn-yellow{
-	background: #f89f22;
+	background: #FF8E48;
 }
 .btn-yellow:hover{
 	background: #ee4212;
@@ -233,7 +233,7 @@ label {
 
 /* scrollUp */
 #scrollUp {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 40px;
 	width: 40px;
 	right: 50px;
@@ -511,7 +511,7 @@ label {
 	margin-right: 35px;
 }
 .header-btn a {
-	background: #f89f22;
+	background: #FF8E48;
 	color: #fff;
 	font-weight: 800;
 	padding: 18px 40px;
@@ -555,7 +555,7 @@ label {
 	margin-top: 20px;
 }
 .slider-content span {
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -567,7 +567,7 @@ label {
 .slider-content span::before {
 	height: 2px;
 	width: 20px;
-	background: #f89f22;
+	background: #FF8E48;
 	content: "";
 	position: absolute;
 	left: 0;
@@ -576,7 +576,7 @@ label {
 .slider-content span::after {
 	height: 2px;
 	width: 10px;
-	background: #f89f22;
+	background: #FF8E48;
 	content: "";
 	position: absolute;
 	left: 28px;
@@ -798,7 +798,7 @@ label {
 	left: 105px;
 }
 .slider-active button:hover {
-	background: #F89F22;
+	background: #FF8E48;
 	color: #fff;
 }
 /* 4. features-area */
@@ -828,7 +828,7 @@ label {
 	position: relative;
 }
 .features-text.active::before {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 20px;
 	width: 2px;
 	content: "";
@@ -837,7 +837,7 @@ label {
 	top: 37px;
 }
 .features-text.active::after {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 40px;
 	width: 2px;
 	content: "";
@@ -846,7 +846,7 @@ label {
 	top: 68px;
 }
 .features-text.active h2 {
-	color: #f89f22;
+	color: #FF8E48;
 }
 .features-text.active p{}
 
@@ -908,7 +908,7 @@ label {
 }
 .best-features-list-icon{}
 .best-features-list-icon i {
-	color: #f89f22;
+	color: #FF8E48;
 	background: #fff;
 	font-size: 16px;
 	height: 30px;
@@ -919,7 +919,7 @@ label {
 	border-radius: 50%;
 	transition: .3s;
 }
-.best-features-list-icon i:hover{background:#f89f22;color:#fff;}
+.best-features-list-icon i:hover{background:#FF8E48;color:#fff;}
 .best-features-content {
 	overflow: hidden;
 	margin-top: 49px;
@@ -955,7 +955,7 @@ label {
 }
 .awesome-features-wrapper:hover{border:1px solid transparent; box-shadow: 0px 10px 60px 0px rgba(233, 233, 233, 0.78);}
 .awesome-features-wrapper::before {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 20px;
 	width: 3px;
 	content: "";
@@ -964,7 +964,7 @@ label {
 	top: 65px;
 }
 .awesome-features-wrapper::after {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 50px;
 	width: 3px;
 	content: "";
@@ -990,7 +990,7 @@ label {
 .services-area{}
 .services-section{}
 .services-section span {
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -1007,7 +1007,7 @@ label {
 	padding-bottom: 28px;
 }
 .services-section h1::before {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 40px;
 	content: "";
@@ -1016,7 +1016,7 @@ label {
 	bottom: 0;
 }
 .services-section h1::after {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 10px;
 	content: "";
@@ -1135,7 +1135,7 @@ label {
 	background: #fff;
 	height: 60px;
 	width: 60px;
-	color: #f89f22;
+	color: #FF8E48;
 	display: inline-block;
 	border-radius: 50%;
 	line-height: 58px;
@@ -1380,7 +1380,7 @@ color: #ffffff;
 	padding-bottom: 26px;
 }
 .promo-text h1::before {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 40px;
 	content: "";
@@ -1389,7 +1389,7 @@ color: #ffffff;
 	bottom: 0;
 }
 .promo-text h1::after {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 15px;
 	content: "";
@@ -1439,7 +1439,7 @@ padding-bottom:10px;
 .promos-icon i {
 	color: #fff;
 	font-size: 16px;
-	background: #f89f22;
+	background: #FF8E48;
 	height: 40px;
 	width: 40px;
 	display: inline-block;
@@ -1530,7 +1530,7 @@ padding-bottom:10px;
 .price-count h1 span.usd {
 	font-size: 30px;
 	font-weight: 500;
-	color: #f89f22;
+	color: #FF8E48;
 	position: relative;
 	top: -83px;
 }
@@ -1569,7 +1569,7 @@ padding-bottom:10px;
 }
 .section-title{}
 .section-title  span {
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -1621,7 +1621,7 @@ padding-bottom:10px;
 .price-box-count{}
 .price-box-count h1 {
 	font-size: 60px;
-	color: #f89f22;
+	color: #FF8E48;
 	font-weight: 400;
 	line-height: 1;
 	letter-spacing: -3px;
@@ -1631,7 +1631,7 @@ padding-bottom:10px;
 .price-box-count h1 span.usd {
 	font-size: 22px;
 	font-weight: 500;
-	color: #f89f22;
+	color: #FF8E48;
 	position: relative;
 	top: -30px;
 	right: 2px;
@@ -1709,7 +1709,7 @@ padding-bottom:10px;
 .features2-wrapper{}
 .features2-text{}
 .features2-text span {
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -1721,7 +1721,7 @@ padding-bottom:10px;
 .features2-text span::before {
 	height: 2px;
 	width: 30px;
-	background: #f89f22;
+	background: #FF8E48;
 	content: "";
 	position: absolute;
 	left: 0;
@@ -1787,7 +1787,7 @@ padding-bottom:10px;
 .newsletter-form form button.btn {
 	position: absolute;
 	right: 0;
-	background: #f89f22;
+	background: #FF8E48;
 	top: 0;
 }
 .newsletter-form form button.btn:hover{background:#ee4212;}
@@ -1829,12 +1829,12 @@ padding-bottom:10px;
 	width: 34px;
 	display: inline-block;
 	border-radius: 50%;
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 13px;
 	line-height: 32px;
 	text-align: center;
 	right: 43%;
-	border: 2px solid #f89f22;
+	border: 2px solid #FF8E48;
 	bottom: 0;
 }
 .testimonial-text{}
@@ -1855,7 +1855,7 @@ padding-bottom:10px;
 .testimonial-text span {
 	font-size: 16px;
 	font-weight: 400;
-	color: #f89f22;
+	color: #FF8E48;
 }
 .testimonial-active.owl-carousel .owl-item img {
 	display: inline-block;
@@ -1879,7 +1879,7 @@ padding-bottom:10px;
 }
 .testimonial-active .owl-dot.active {
   position: relative;
-  background:#f89f22;
+  background:#FF8E48;
   width:40px;
 }
 /* testimonial 2 */
@@ -1996,11 +1996,11 @@ padding-bottom:10px;
 	padding-top: 24px;
 }
 .blog-text h4 > a{color:#252525;transition:.3s;}
-.blog-text h4 > a:hover{color:#f89f22;}
+.blog-text h4 > a:hover{color:#FF8E48;}
 .blog-text h4::before {
 	height: 2px;
 	width: 40px;
-	background: #f89f22;
+	background: #FF8E48;
 	content: "";
 	position: absolute;
 	left: 0;
@@ -2013,7 +2013,7 @@ padding-bottom:10px;
 	display: inline-block;
 	transition: .3s;
 }
-.blog-text > a:hover{color:#f89f22;}
+.blog-text > a:hover{color:#FF8E48;}
 .blog-text > a i {
 	position: relative;
 	top: 3px;
@@ -2160,7 +2160,7 @@ padding-bottom:10px;
 }
 
 .widget-social-icon a:hover {
-	color: #F89F22;
+	color: #FF8E48;
 }
 
 .widget .recent-posts>li:first-child {
@@ -2637,7 +2637,7 @@ ul.cat li a:hover {
 	width: 50px;
 	background: #ffffff;
 	line-height: 50px;
-	color: #f89f22;
+	color: #FF8E48;
 	margin: 0 8px;
 	opacity: 0;
 	visibility: hidden;
@@ -2656,7 +2656,7 @@ ul.cat li a:hover {
 }
 
 .pro-cat a {
-	color: #f89f22;
+	color: #FF8E48;
 	font-size: 14px;
 	letter-spacing: 2px;
 	font-weight: 600;
@@ -3024,7 +3024,7 @@ ul.cat li a:hover {
 }
 .portfolio-filter button:hover,.portfolio-filter button.active{
 	position: relative;
-	color: #f89f22;
+	color: #FF8E48;
 }
 .portfolio-filter button::before {
 	content: '';
@@ -3033,7 +3033,7 @@ ul.cat li a:hover {
 	position: absolute;
 	bottom: -2px;
 	left: 100%;
-	background: #f89f22;
+	background: #FF8E48;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -3125,7 +3125,7 @@ ul.cat li a:hover {
 	color: #fff;
 }
 .portfolio-caption h4 a:hover {
-	color: #f89f22;
+	color: #FF8E48;
 }
 .portfolio-caption p {
 	text-transform: capitalize;
@@ -3281,7 +3281,7 @@ ul.cat li a:hover {
 	margin-right: 7px;
 	transition: .3s;
 }
-.footer-icon a:hover{background:#f89f22;color:#fff;}
+.footer-icon a:hover{background:#FF8E48;color:#fff;}
 .footer-title {
 	position: relative;
 	font-size: 24px;
@@ -3290,7 +3290,7 @@ ul.cat li a:hover {
 	margin-bottom: 36px;
 }
 .footer-title::after {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 10px;
 	content: "";
@@ -3299,7 +3299,7 @@ ul.cat li a:hover {
 	bottom: 0;
 }
 .footer-title::before {
-	background: #f89f22;
+	background: #FF8E48;
 	height: 2px;
 	width: 30px;
 	content: "";
@@ -3321,7 +3321,7 @@ ul.cat li a:hover {
 	top: 0;
 	transition: .3s;
 	font-family: "dripicons-v2";
-	color: #f89f22;
+	color: #FF8E48;
 	opacity: 0;
 }
 .footer-menu li:hover::before{opacity:1;}
@@ -3333,7 +3333,7 @@ ul.cat li a:hover {
 	transition: .3s;
 }
 .footer-menu li:hover a {
-	color: #f89f22;
+	color: #FF8E48;
 	padding-left: 24px;
 }
 .footer-list{}
@@ -3378,7 +3378,7 @@ ul.cat li a:hover {
 }
 .contact-address-icon i {
 	font-size: 15px;
-	color: #f89f22;
+	color: #FF8E48;
 }
 .contact-address-text {
 	overflow: hidden;
@@ -3416,7 +3416,7 @@ ul.cat li a:hover {
 	transition: .3s;
 	position:relative;
 }
-.footer-bottom-link li a:hover{color:#f89f22;}
+.footer-bottom-link li a:hover{color:#FF8E48;}
 .footer-content p {
 	color: #ecedff;
 	line-height: 28px;
@@ -3445,7 +3445,7 @@ ul.cat li a:hover {
 .subscribes-form form button.btn {
 	margin-top: 14px;
 	position: relative;
-	background: #f89f22;
+	background: #FF8E48;
 	transition: .3s;
 	color: #fff;
 	border: 2px solid #161616;
@@ -3462,13 +3462,13 @@ ul.cat li a:hover {
 }
 .footer-white .footer-icon a:hover{
 	color: #fff;
-	background: #f89f22;
+	background: #FF8E48;
 }
 .footer-white .footer-menu li a {
 	color: #ecedff;
 }
 .footer-white .footer-menu li a:hover{
-	color: #f89f22;
+	color: #FF8E48;
 }
 .footer-white .footer-title {
 	color:#ffffff;
@@ -3486,7 +3486,7 @@ ul.cat li a:hover {
 	color: #ecedff;
 }
 .footer-white .footer-bottom-link li  a:hover {
-	color: #f89f22;
+	color: #FF8E48;
 }
 .footer-white .footer-border {
 	border-top: 1px solid #1f2459;
