@@ -3307,7 +3307,7 @@ ul.cat li a:hover {
 	margin-bottom: 36px;
 }
 .footer-title::after {
-	background: #FF8E48;
+	background: #467fcf;
 	height: 2px;
 	width: 10px;
 	content: "";
@@ -3316,7 +3316,7 @@ ul.cat li a:hover {
 	bottom: 0;
 }
 .footer-title::before {
-	background: #FF8E48;
+	background: #467fcf;
 	height: 2px;
 	width: 30px;
 	content: "";
@@ -3338,7 +3338,7 @@ ul.cat li a:hover {
 	top: 0;
 	transition: .3s;
 	font-family: "dripicons-v2";
-	color: #FF8E48;
+	color: #467fcf;
 	opacity: 0;
 }
 .footer-menu li:hover::before{opacity:1;}
@@ -3350,7 +3350,7 @@ ul.cat li a:hover {
 	transition: .3s;
 }
 .footer-menu li:hover a {
-	color: #FF8E48;
+	color: #467fcf;
 	padding-left: 24px;
 }
 .footer-list{}
@@ -3395,7 +3395,7 @@ ul.cat li a:hover {
 }
 .contact-address-icon i {
 	font-size: 15px;
-	color: #FF8E48;
+	color: #467fcf;
 }
 .contact-address-text {
 	overflow: hidden;
@@ -3871,4 +3871,8 @@ ul.cat li a:hover {
 	max-width: 50px;
 	max-height: 69px;
 	float: left;
+}
+
+.links-more{
+		margin-right: 50px;
 }
