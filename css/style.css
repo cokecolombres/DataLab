@@ -302,9 +302,10 @@ label {
 	transition: .3s;
 	margin-left: auto;
 	width: 100%;
-	background: #ee4212;
+	background: black;
 	height: 2px;
 }
+
 /* extra info */
 .extra-info {
 	background: #152136;
@@ -3264,6 +3265,7 @@ ul.cat li a:hover {
 	font-size: 15px;
 	line-height: 28px;
 	margin-bottom: 0;
+	margin-top: 40px;
 }
 .footer-icon {
 	margin-top: 20px;
