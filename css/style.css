@@ -74,7 +74,7 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-	color: #FF8E48;
+	color: #467fcf;
 	text-decoration: none;
 }
 a,
@@ -281,6 +281,10 @@ label {
 .sticky div nav[id=mobile-menu] ul li a{
 	color: black;
 }
+.hov-link{}
+.hov-link:hover{
+	color: #467fcf;
+}
 .sticky a{
 	color: black;
 }
@@ -421,9 +425,9 @@ label {
 	line-height: 1;
 	position: relative;
 }
-.main-menu nav > ul  > li:hover > a,.main-menu nav > ul  > li.active > a{color:#010e2a;}
+.main-menu nav > ul  > li:hover > a,.main-menu nav > ul  > li.active > a{color:#467fcf;}
 .main-menu > nav > ul > li > a::before {
-	background: #ee4212;
+	background: #467fcf;
 	content: "";
 	height: 2px;
 	position: absolute;
@@ -3859,5 +3863,5 @@ ul.cat li a:hover {
 }
 
 .service-link:hover{
-	color: #ee4212;
+	color: #467fcf;
 }
