@@ -3873,6 +3873,6 @@ ul.cat li a:hover {
 	float: left;
 }
 
-.links-more{
-		margin-right: 50px;
+.hov-square:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
