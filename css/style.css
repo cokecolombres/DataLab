@@ -3862,6 +3862,13 @@ ul.cat li a:hover {
 	top: 11px;
 }
 
-.service-link:hover{
+.service-link{
 	color: #467fcf;
+	float: auto;
+}
+
+.service-icon{
+	max-width: 50px;
+	max-height: 69px;
+	float: left;
 }
