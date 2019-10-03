@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="manifest" href="site.webmanifest">
-	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+	<link rel="shortcut icon" type="image/x-icon" href="img/favico/data-fav3.png">
 	<!-- Place favicon.ico in the root directory -->
 
 	<!-- CSS here -->
@@ -30,13 +30,13 @@
 <body>
 
 	<!-- header-start -->
-	<header class="header-transparent">
+	<header class="header-transparent" style="z-index: 9999;">
 		<div id="sticky-header" class="main-menu-area">
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-3 col-lg-3 d-flex align-items-center">
-						<div class="logo">
-							<a href="index.html" class="h1"><strong>data</strong>Lab.</a>
+						<div class="logo hov-black">
+							<a href="index.html" class="h1 hov-black"><strong>data</strong>Lab.</a>
 						</div>
 					</div>
 					<div class="col-xl-9 col-lg-9">
@@ -49,21 +49,6 @@
 									</li>
 									<li><a href="about.html">nosotros</a>
 									</li>
-									<!-- <li><a href="portfolio-3-col.html">portfolio</a>
-											<ul class="sub-menu text-left">
-												<li><a href="portfolio-3-col.html">Portfolio 01</a></li>
-												<li><a href="portfolio-2-col.html">Portfolio 02</a></li>
-												<li><a href="portfolio.html">Portfolio 03</a></li>
-												<li><a href="portfolio-details.html">Portfolio Details</a></li>
-											</ul>
-										</li>
-										<li><a href="blog.html">blog</a>
-											<ul class="sub-menu text-left">
-												<li><a href="blog.html">Blog</a></li>
-												<li><a href="blog-grid.html">Blog Grid</a></li>
-												<li><a href="blog-details.html">Blog Details</a></li>
-											</ul>
-										</li> -->
 									<li><a href="contact.html">contacto</a></li>
 								</ul>
 							</nav>
@@ -98,36 +83,35 @@
 		<div class="container">
 			<div class="form-wrapper">
 				<div class="contact-form">
-					<form id="contact-form" action="#">
+					<form id="contact-form"  action="https://formspree.io/datalabmedia@gmail.com" method="POST">
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="form-box user-icon mb-30">
-									<input type="text" name="name" placeholder="Nombre">
+									<input type="text" name="Nombre" placeholder="Nombre">
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form-box email-icon mb-30">
-									<input type="text" name="email" placeholder="Email">
+									<input type="text" name="Email" placeholder="Email">
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form-box phone-icon mb-30">
-									<input type="text" name="phone" placeholder="Teléfono">
+									<input type="text" name="Telefono" placeholder="Teléfono">
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="form-box subject-icon mb-30">
-									<input type="text" name="subject" placeholder="Asunto por el que escribes">
+									<input type="text" name="Asunto" placeholder="Asunto por el que escribes">
 								</div>
 							</div>
 							<div class="col-lg-12">
 								<div class="form-box message-icon mb-30">
-									<textarea name="message" id="message" cols="30" rows="10"
+									<textarea name="Mensaje" id="message" cols="30" rows="10"
 										placeholder="Tu mensaje"></textarea>
 								</div>
 								<div class="contact-btn text-center">
-									<button class="btn theme-btn" type="submit">Enviar <i
-											class="dripicons-arrow-thin-right"></i></button>
+									<button class="btn theme-btn" type="submit">Enviar <i class="dripicons-arrow-thin-right"></i></button>
 								</div>
 							</div>
 						</div>
@@ -141,7 +125,7 @@
 
 
 	<footer>
-		<div class="footer-area pt-90 pb-60">
+		<div class="footer-area pt-90 pb-60 gray1-bg">
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-4 col-lg-4 col-md-6">
@@ -158,10 +142,10 @@
 								<br>
 							</div>
 							<div class="footer-icon">
-								<a href="#"><i class="fab fa-instagram"></i></a>
-								<a href="#"><i class="fab fa-facebook-f"></i></a>
-								<a href="#"><i class="fab fa-twitter"></i></a>
-								<a href="#"><i class="fab fa-youtube"></i></a>
+								<a href="https://www.instagram.com/datalabmedia/" target="_blank"><i
+										class="fab fa-instagram"></i></a>
+								<a href="https://www.facebook.com/DataLab-Media-Digital-Marketing-e-Business-101940011213022/"
+									target="_blank"><i class="fab fa-facebook-f"></i></a>
 							</div>
 						</div>
 					</div>
@@ -224,32 +208,11 @@
 									Colombres.</p>
 							</div>
 						</div>
-						<div class="col-xl-6 col-lg-6 col-md-12">
-							<ul class="footer-bottom-link text-lg-right">
-								<li><a href="#">Términos y condiciones</a></li>
-								<li><a href="#">Políticas de privacidad</a></li>
-								<li><a href="contact.html">Contacto</a></li>
-							</ul>
-						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</footer>
-
-	<!-- Modal Search -->
-	<div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-				<form>
-					<input type="text" placeholder="Search here...">
-					<button>
-						<i class="fa fa-search"></i>
-					</button>
-				</form>
-			</div>
-		</div>
-	</div>
 
 
 
