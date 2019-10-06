@@ -1399,7 +1399,7 @@ color: #ffffff;
 	padding-bottom: 26px;
 }
 .promo-text h1::before {
-	background: #FF8E48;
+	background: #467fcf;
 	height: 2px;
 	width: 40px;
 	content: "";
@@ -1408,7 +1408,7 @@ color: #ffffff;
 	bottom: 0;
 }
 .promo-text h1::after {
-	background: #FF8E48;
+	background: #467fcf;
 	height: 2px;
 	width: 15px;
 	content: "";
@@ -1435,9 +1435,10 @@ color: #ffffff;
 .promo-link li i {
 	margin-top: 8px;
 	margin-right: 11px;
-	color: #6e6e6e;
+	color: #467fcf;
 	font-size: 14px;
 }
+
 .promos-link {
 	margin-top: 25px;
 }
@@ -1458,7 +1459,7 @@ padding-bottom:10px;
 .promos-icon i {
 	color: #fff;
 	font-size: 16px;
-	background: #FF8E48;
+	background: #467fcf;
 	height: 40px;
 	width: 40px;
 	display: inline-block;
@@ -1467,7 +1468,7 @@ padding-bottom:10px;
 	line-height: 45px;
 	transition:.3s;
 }
-.promos-link li:hover .promos-icon i{background:#1060ff;}
+.promos-link li:hover .promos-icon i{background:#467fcf;}
 .promos-text{margin-left:0;overflow:hidden;}
 .promos-img {
 	margin-left: -14px;
@@ -1588,7 +1589,7 @@ padding-bottom:10px;
 }
 .section-title{}
 .section-title  span {
-	color: #FF8E48;
+	color: #467fcf;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 500;
